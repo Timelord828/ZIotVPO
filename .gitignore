@@ -1,0 +1,12 @@
+#directories
+.vs/
+x64/
+TestDirectory/
+
+#files
+*.user
+*.filters
+*.exe
+*.zip
+*.mp4
+*.diagsession
